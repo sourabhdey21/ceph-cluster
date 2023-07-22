@@ -7,3 +7,4 @@
 ![image](https://user-images.githubusercontent.com/98477908/206874011-f0387a4d-480d-4582-b22e-a80809544ea0.png)
 ![image](https://user-images.githubusercontent.com/98477908/206874016-60804df5-d168-424a-b56c-d26ba6ae0861.png)
 
+![image](https://github.com/sourabhdey21/ceph-cluster/assets/98477908/bb366369-a625-47f7-86d2-e8e14ae6362f)
