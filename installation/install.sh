@@ -6,7 +6,7 @@
 useradd -d /home/cephuser -m cephuser 
 
 ## Set passwod for cephuser 
-echo "C1sc0123!" | passwd --stdin cephuser
+echo "passwd" | passwd --stdin cephuser
 
 ## Make cephuser sudo password less 
 
